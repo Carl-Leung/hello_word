@@ -1,2 +1,3 @@
 # hello_word
-Just another repository
+Nice to meet you!
+It is my firsttime to meet github.Let me be better.
